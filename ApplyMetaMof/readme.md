@@ -1,6 +1,6 @@
 Summary
 =======
-The `New-DscMetaConfiguration` cmdlet allows you to create a _localhost.meta.mof_ with the options specified when calling the cmdlet. Optionally, it will also apply the the meta configuration (and remove the temporary _localhost.meta.mof_).
+The `New-DscMetaConfiguration` cmdlet allows you to create a _localhost.meta.mof_ with the options specified when calling the cmdlet. Optionally, it will also apply the meta configuration (and remove the temporary _localhost.meta.mof_).
 
 How To Run
 ==========
